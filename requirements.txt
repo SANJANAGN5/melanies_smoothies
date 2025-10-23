@@ -1,0 +1,2 @@
+Snowflake-snopark-python
+streamlit
