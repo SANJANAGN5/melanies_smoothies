@@ -1,2 +1,3 @@
-Snowflake-snopark-python
+#requirements.txt
+snowflake-snowpark-python
 streamlit
